@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 
 # CONFIG
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://cinemuvicorn-api.onrender.com"
 
 NO_POSTER = os.path.join("assets", "no_poster.png")
 
